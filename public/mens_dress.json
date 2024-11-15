@@ -1,0 +1,1262 @@
+[
+    {
+      "image1": "https://m.media-amazon.com/images/I/61rKrz3aU+L._AC_UY1000_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/71r9hQ5sbjL._AC_UY1000_.jpg",
+      "brand": "FANCIER",
+      "title": "Men's Easy-Care Long Sleeve Shirts",
+      "color": "Blue",
+      "discountedPrice": 19.99,
+      "price": 29.99,
+      "discountPercent": 66,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Stretchy and comfortable: Our mens dress shirts are made with a 4-way stretch fabric that provides a comfortable, flexible fit for all-day wear. Wrinkle-free convenience: Say goodbye to ironing with our wrinkle-free mens button down shirts. Simply wash, hang, and wear for a polished look every time."
+    },
+    {
+      "image1":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYPMxyjyZHJ3mM2cNnDacuvsQSXAHWLPsKkhDpqLBSGd8QwvP-htbYGBps93bLcjCgS5w&usqp=CAU",
+      "image2": "https://m.media-amazon.com/images/I/71-gOhxmcNL._AC_UY1000_.jpg",
+      "brand": "GENERIC",
+      "title": "Mens Button Down Textured Wrinkle Free Stretch Short",
+      "color": "Army Green",
+      "discountedPrice": 14.99,
+      "price": 24.99,
+      "discountPercent": 68,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Men Cotton Shirts Short Sleeve is great to match with beach shorts, solid t-shirts, slacks, formal pants, linen pants, jeans and casual shorts. Pair with shorts, sunglasses,a hat, and canvas shoes for your perfect style on casual, business and the beach."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/61NzLVJgjUL._AC_SY550_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/61sqok0XKBL._AC_SY550_.jpg",
+      "brand": "ELINA FASHION",
+      "title": "Men's Tunic Cotton Panjabi Pajama Set Traditional Wear",
+      "color": "Black",
+      "discountedPrice": 44.99,
+      "price": 65.99,
+      "discountPercent": 73,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+      "image1":
+        "https://dealsdejavu.com/cdn/shop/products/2020-Brand-Casual-Spring-Luxury-Plaid-Long-Sleeve-Slim-Fit-Men-Shirt-Streetwear-Social-Dress-Shirts.jpg_640x640_8dcc8512-142e-4258-9e58-51c857918187.jpg?v=1674003947&width=1445",
+      "image2":
+        "https://5.imimg.com/data5/SELLER/Default/2021/6/JD/PM/MJ/132700169/whatsapp-image-2021-06-30-at-12-28-56-am-jpeg-500x500.jpeg",
+      "brand": "ROYAL COLLARUP",
+      "title": "ROYAL COLLARUP cotton Mens Shirt",
+      "color": "Graw",
+      "discountedPrice": 34,
+      "price": 48,
+      "discountPercent": 76,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+      "image1":
+        "https://dfwimpression.com/cdn/shop/products/port-company-essential-tee-pc61-colonial-blue-622348.jpg?v=1671449528",
+      "image2":
+        "https://i5.walmartimages.com/seo/Port-Co-Adult-Male-Men-Crew-Neck-Plain-Short-Sleeves-T-Shirt-Teal-Medium_f82dcb29-1e26-4541-b344-158d626fffce_1.881b00e10b5b0b59ecbfb3eccd115262.jpeg",
+      "brand": "PORT & COMPANY",
+      "title": "Men Crew Neck Plain Short Sleeves T-Shirt",
+      "color": "Teal",
+      "discountedPrice": 6.89,
+      "price": 13.59,
+      "discountPercent": 50,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+      "image1":
+        "https://www.kameezghar.com/cdn/shop/files/original_e66e0b2c-77ac-483c-9171-036814b48e03.jpg?v=1723822539",
+      "image2":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK2oVfr9Fa-88dQFbxf3QyXvbzVPXYobxJX9ag_znIBUaAG5ioMUssUvNthNdrQCVMC8&usqp=CAU",
+      "brand": "My Store",
+      "title": "Men’s Fotua ( Short Shirt)",
+      "color": "Pink",
+      "discountedPrice": 35.0,
+      "price": 49.0,
+      "discountPercent": 66,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Crafted with pure soft linen cotton full sleeve button up shirt shirt. A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+      "image1":
+        "https://5.imimg.com/data5/SELLER/Default/2023/4/298808936/PZ/HB/HP/8647031/whatsapp-image-2023-02-25-at-11-37-28-500x500.jpeg",
+      "image2":
+        "https://5.imimg.com/data5/SELLER/Default/2022/3/IS/YV/ZH/129902046/1-500x500.jpeg",
+      "brand": "WRODSS",
+      "title": "Mens Pure Cotton Kurta With Embroidery Mirror Work",
+      "color": "Multi",
+      "discountedPrice": 77.0,
+      "price": 99.99,
+      "discountPercent": 72,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+      "image1":
+        "https://www.yellowclothing.net/cdn/shop/files/DSC8039_d8b0b7d5-872e-4c22-8080-fa5ed3937e1b.jpg?v=1704041853",
+      "image2":
+        "https://www.yellowclothing.net/cdn/shop/files/8U6A0239.jpg?v=1709225298",
+      "brand": "Manthan",
+      "title": "Men's Embroidered Cotton Panjabi",
+      "color": "Blue",
+      "discountedPrice": 25.79,
+      "price": 34.49,
+      "discountPercent": 27,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "This Panjabi is admired for their exquisite embroidery, elegant designs, and comfortable styling, making it a popular choice for men across cultures and regions."
+    },
+    {
+      "image1":
+        "https://i.etsystatic.com/39698029/r/il/986058/6278627899/il_570xN.6278627899_agad.jpg",
+      "image2":
+        "https://rukminim2.flixcart.com/image/850/1000/xif0q/kurta/0/c/f/3xl-pk1013-pk-g-original-imagm6u2zh6syhr5.jpeg?q=20&crop=false",
+      "brand": "weddingpanajbi",
+      "title": "Men's Pathani Outfits ,Panjabi with pants Party Wear",
+      "color": "Blue",
+      "discountedPrice": 46.19,
+      "price": 61.99,
+      "discountPercent": 68,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "100 Plus Loose Traditional Long Mens Panjabi made from Straight cut Panjabi is a loose shirt falling either just above or somewhere below the knees of the wearer and is traditionally worn by men.Premium 100% Cotton. The Soft and Smooth Feel of the Panjabi adds to its Comfort and style. Best worn over Formal wear and casual everyday wear."
+    },
+    {
+      "image1":
+        "https://i.etsystatic.com/30848045/r/il/90a1c2/3516330497/il_570xN.3516330497_hz07.jpg",
+      "image2":
+        "https://assets.ajio.com/medias/sys_master/root/20230915/xUwD/6503b3d0ddf7791519dae8ec/-473Wx593H-466580795-grey-MODEL.jpg",
+      "brand": "Chamantailormade",
+      "title": "Ethnic Kick mens solid side button fancy Panjabi pyjama set",
+      "color": "Black",
+      "discountedPrice": 132.71,
+      "price": 265.89,
+      "discountPercent": 57,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Give yourself a best ethnic look by wearing this Panjabi. Made of rich cotton blend fabric this regular-fit set comprises a full-sleeved Indian Panjabi. This outfit with mojris will look apart on special occasions. These Men's Panjabi shirts can be customized as per your requirement."
+    },
+    {
+      "image1":
+        "https://img.perniaspopupshop.com/catalog/product/a/v/AVKPR122289_4.jpg?impolicy=detailimageprod",
+      "image2":
+        "https://img.perniaspopupshop.com/catalog/product/a/v/AVKPR122294_5.jpg?impolicy=detailimageprod",
+      "brand": "fabzy",
+      "title": "Men Printed Cotton Blend Straight Panjabi",
+      "color": "White",
+      "discountedPrice": 191,
+      "price": 238,
+      "discountPercent": 20,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Featuring an ivory Panjabi in cotton silk base with hand-painted digital print. It is paired with matching churidar pants."
+    },
+    {
+      "image1":
+        "https://i5.walmartimages.com/seo/Yubnlvae-mens-t-shirt-Men-s-Summer-Casual-Button-Up-O-Neck-Solid-Color-T-Shirts-Short-Sleeves-T-Shirts-For-Men-Green_71e5d9ef-f461-4c12-937a-c4475023b99b.1c5e7fa008f638c592cc8565bfded0cf.jpeg",
+      "image2": "https://m.media-amazon.com/images/I/71WDOBD7ExL._AC_SL1500_.jpg",
+      "brand": "YUBNLVAE",
+      "title": "Men's Summer Casual Button Up O Neck Solid Color T-Shirts",
+      "color": "Green",
+      "discountedPrice": 9.06,
+      "price": 10.09,
+      "discountPercent": 14,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Men's Summer Casual Button Up O Neck Solid Color T-Shirts Short Sleeves Please check the Size Chart before order. If you are not sure the size, please send message to us. It is made of high quality materials,durable enough for your daily wearing. Stylish and fashion design make you more attractive. Perfect Match with your favorite shorts,leggings, black slacks, denim jeans, etc."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/61SlotIYy3L._AC_SL1500_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/716amLWkY2L._AC_SY550_.jpg",
+      "brand": "HNVAVQ",
+      "title": "Men's Polo Shirts Summer Outdoor Casual Short Sleeve",
+      "color": "Dark Blue",
+      "discountedPrice": 39.0,
+      "price": 108.89,
+      "discountPercent": 70,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Short sleeve polo shirt offer an excellent comfort.The t-shirt is moisture-wicking,lightweight,soft,breathable,bring you a better wear experience. Excellent Workmanship,men's summer short sleeve tops make you look clean and fashion,textured fabric,give you good and comfortable wearing experience."
+    },
+    {
+      "image1": "https://cdni.llbean.net/is/image/wim/510030_0_44",
+      "image2":
+        "https://cdni.llbean.net/is/image/wim/510030_4168_45?hei=196&wid=170&defaultImage=llbprod/510030_0_45",
+      "brand": "L.L.Bean",
+      "title":
+        "Men's Comfort Stretch Oxford Shirt, Traditional Untucked Fit, Plaid",
+      "color": "Bayside Blue",
+      "discountedPrice": 82.91,
+      "price": 219.99,
+      "discountPercent": 70,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Looks like an everyday shirt, but ours has performance built right in - this versatile oxford stretches with you and wicks moisture away. Traditional Untucked Fit: Relaxed through the chest, sleeve and waist, with a slightly shorter hem you can wear untucked. Our essential oxford shirt works harder than most button-downs, in soft, comfortable easy-care fabric that wicks moisture away and dries quickly for all-day comfort. With built-in stretch for enhanced ease of movement."
+    },
+    {
+      "image1":
+        "https://ae01.alicdn.com/kf/Sf87d87abaea64db8970ab01cfb265b26B.jpg_640x640Q90.jpg_.webp",
+      "image2":
+        "https://image.made-in-china.com/202f0j00ezjqvBMnkDof/Men-s-Polo-Shirt-Men-Solid-Polo-Shirts-Brand-Men-Short-Sleeved-Shirt-Summer-Shirt-Man-Clothing.webp",
+      "brand": "Fu quing men",
+      "title":
+        "Men's Fashion Polo Shirt Striped Business Style Zipper Casual Beach ",
+      "color": "Blue",
+      "discountedPrice": 35.79,
+      "price": 95.99,
+      "discountPercent": 73,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 2
+        },
+        {
+          "name": "M",
+          "quantity": 3
+        },
+        {
+          "name": "L",
+          "quantity": 5
+        }
+        
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Zippers,The polo shirt's zipper detailing adds a modern twist to its classic business style. Casual,Perfect for casual outings, this polo shirt blends seamlessly with beach or street wear styles. Summer,Ideal for summer, this polo shirt's lightweight fabric keeps you cool and stylish in warmer weather."
+    },
+    {
+      "image1":
+        "https://ae01.alicdn.com/kf/S34cd804518974a899b5acde6f7fff343L/Summer-Men-Polo-Shirt-Solid-Color-Turn-Down-Collar-Button-Tops-Short-Sleeve-Business-Casual-Oversized.jpg",
+      "image2": "https://m.media-amazon.com/images/I/61RCgVKm8lL._AC_SX679_.jpg",
+      "brand": "FUBAR",
+      "title": "Men Polo Shirt Solid Color Turn Down Collar Button Tops",
+      "color": "Blue",
+      "discountedPrice": 39.29,
+      "price": 96.48,
+      "discountPercent": 75,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "European Size Range:Available in European sizes S to 3XL, this polo shirt caters to a wide range of body types. Versatile Solid Color Design:The solid color design makes this polo shirt a versatile choice for business casual or summer wear. Stylish Turn Down Collar:Featuring a classic turn down collar, this polo shirt adds a touch of sophistication to your wardrobe."
+    },
+    {
+      "image1":
+        "https://i5.walmartimages.com/seo/Wehilion-Mens-Suits-Set-Slim-Fit-Men-3-Piece-Dress-Suit-Prom-Blazer-Wedding-Formal-Jacket-Vest-Pants-Navy-Blue-L_ce590b9b-405f-4948-af6a-a817cd66f9cd.4e404934c089dc5fabeb4616f32245e6.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "image2": "https://m.media-amazon.com/images/I/51+BuqvbpZL._AC_SL1100_.jpg",
+      "brand": "Wehilion",
+      "title": "Mens Suits Set Slim Fit Men 3 Piece Dress Suit Prom Blazer",
+      "color": "Blue",
+      "discountedPrice": 75.59,
+      "price": 229.99,
+      "discountPercent": 76,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "70% Polyester and 30% Viscose,The 3 pieces Mens Suit, jacket + vest + pants, soft and comfortable,good air permeability, can reduce skin irritation . Suit for wedding Date Working Company party, groomsmen, graduation ceremony, prom, office, school dances stage performances, business,casual daily wear for All seasons."
+    },
+    {
+      "image1":
+        "https://www.bagteshfashion.com/public/storage/uploads/images/product/product_image/thumb/MSU322.jpg",
+      "image2":
+        "https://i.etsystatic.com/19677262/r/il/d912aa/4332744985/il_fullxfull.4332744985_d70o.jpg",
+      "brand": "Wehilion",
+      "title": "Men's Stylish Groom Wedding Pink Suit",
+      "color": "Pink",
+      "discountedPrice": 211.0,
+      "price": 519.0,
+      "discountPercent": 74,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Men's Wedding Pink Suit 3 Piece Custom Wedding Suit made from pure polyester fabric. This suit comes with 3 pieces (Jacket, Vest and pants) only. Perfect for hosting, smoking, lounging & all occasions. Perfect gift for the Perfect man or just as a personal treat."
+    },
+    {
+      "image1":
+        "https://media.nihalfashions.com/media/catalog/product/cache/caa15edf98145413286703527de7b8dd/l/i/light-brown-art-silk-mens-sherwani-nmk-6875.jpg",
+      "image2":
+        "https://assets2.andaazfashion.com/media/catalog/product/cache/1/image/800x1200/a12781a7f2ccb3d663f7fd01e1bd2e4e/l/i/light-yellow-art-silk-embroidered-men-sherwani-mstv02640-1.jpg",
+      "brand": "Nihal Fashions",
+      "title": "Light Brown Art Silk Mens Sherwani",
+      "color": "Brown",
+      "discountedPrice": 135.2,
+      "price": 169.0,
+      "discountPercent": 20,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Light Brown Art Silk Sherwani is designed with all over print. Comes with a bottom. Actual product colors, patterns and designs may slightly vary. A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+      "image1":
+        "https://pictures.kartmax.in/live/sites/9s145MyZrWdIAwpU0JYS/product-images/off_white_silk_wedding_mens_sherwani_16180460412504_1.jpg",
+      "image2":
+        "https://gulnaaz.com/cdn/shop/products/Sherwani-Design-no-027-10.jpg?v=1643558971",
+      "brand": "G3Fashion",
+      "title": "Gold silk wedding Men's Sherwani",
+      "color": "Gold",
+      "discountedPrice": 436.39,
+      "price": 1499,
+      "discountPercent": 75,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Gold silk mens double layer sherwani for wedding wear. Make features with thread,beads and zardosi details at over all. Added with stand collar, full fancy buttoned placket, full sleeves and straight hem. Comes with matching bottom."
+    },
+    {
+      "image1":
+        "https://s.alicdn.com/@sc04/kf/H1593681acf0641d0a5e6c53f40fa32a8i.jpg_300x300.jpg",
+      "image2": "https://i.ebayimg.com/images/g/8wcAAOSw9FBhiUnP/s-l1200.jpg",
+      "brand": "NeilasasSTORE",
+      "title": "Men's Jacket Autumn Winter Fleece Tough Guy Masculine Coat",
+      "color": "Black",
+      "discountedPrice": 81.64,
+      "price": 93.84,
+      "discountPercent": 13,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "This men's casual jacket has multiple pockets for quick access to items such as ID cards and change, providing you with great convenience. Casual trench coat for men that works great on the upper body. Wear it with sweaters, t-shirts, hoodies, jeans, sweatpants, casual shorts, and more. Complete your everyday look with this lightweight and stylish jacket, a must-have addition to any wardrobe."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/61B7d1KyXxL._AC_SX679_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/61dgCdLWfsL._AC_UY580_.jpg",
+      "brand": "Pegsmio",
+      "title": "Men's Winter Long Slim, Trench Coat Business Cotton Button Jacket",
+      "color": "Light Blue",
+      "discountedPrice": 62.99,
+      "price": 199.89,
+      "discountPercent": 74,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Classic design jackets for spring, autumn and cold winter, suitable for casual wear, business, dating and parties or outdoor activities, such as hiking, picnic, jogging, cycling, golf, travel, etc. Hand wash recommended, normal wash, hang to dry. Please carefully check the size chart in the product image (not the Amazon size chart) to choose the right size before purchasing. If you have any questions, please feel free to contact us, we will provide satisfactory customer service."
+    },
+    {
+      "image1":
+        "https://img4.dhresource.com/webp/m/0x0/f3/albu/km/s/20/834df2b3-d400-46bb-9574-64abadb519d5.png",
+      "image2": "https://images.nexusapp.co/assets/3b/1e/12/18211430.jpg",
+      "brand": "lookpack",
+      "title": "Men's Jackets Autumn Winter Long Trench Coat",
+      "color": "Purple",
+      "discountedPrice": 167.71,
+      "price": 328.0,
+      "discountPercent": 45,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Classic design jackets for spring, autumn and cold winter, suitable for casual wear, business, dating and parties or outdoor activities, such as hiking, picnic, jogging, cycling, golf, travel, etc. Hand wash recommended, normal wash, hang to dry. Please carefully check the size chart in the product image (not the Amazon size chart) to choose the right size before purchasing."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/61FRgVZBhzL._AC_UY1000_.jpg",
+      "image2":
+        "https://m.media-amazon.com/images/I/41n9Rwam+jL._QL92_SH45_SR240,220_.jpg",
+      "brand": "Mmoneyake",
+      "title": "Men Casual Thicken Bomber Jacket Quilted Lined",
+      "color": "Pink",
+      "discountedPrice": 24.99,
+      "price": 54.99,
+      "discountPercent": 66,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Stylish look,make clothes look fashionable,the fabric is breathable and warm, it is good to match with jeans, athletic pants, casual pants, cargo pants etc,hooded jackets for men casual thicken bomber jacket quilted lined long sleeve plaid color block zip up hoodies coat,mens jacket lightweight mens casual jackets lightweight rain jacket mens casual jacket man jackets men jacket casual rain jacket men light jackets for men men's lightweight jacket jackets for men."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/719yMFJz12L._AC_UY1000_.jpg",
+      "image2":
+        "https://i5.walmartimages.com/seo/LLIMED-Men-s-Classic-Polo-Shirt-Quarter-Zip-Lapel-Short-Sleeve-T-Shirts-Regular-Fit-Business-Golf-Polo-Shirts_b743a112-3bc8-4987-8c50-7e6464f40932.883b2ff1f43e585fc6758334d8dff87c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "brand": "Generic",
+      "title": "Men's Casual Button Polo Shirt Knit Short Sleeve",
+      "color": "Green",
+      "discountedPrice": 26.78,
+      "price": 49.99,
+      "discountPercent": 82,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Men's polo shirts are made of soft premium fabric, lightweight, breathable and skin-friendly polo shirts will bring you a comfortable wearing experience. Mens short sleeve knitted polo shirt with turn down collar, closure striped polo shirt is stylish and simple, yet with a retro flavor. Suitable for spring, summer and fall."
+    },
+    {
+      "image1":
+        "https://cdn.kaykraft.com/wp-content/uploads/2023/06/PNJ-BC-LG-209.jpg",
+      "image2":
+        "https://admin.oxygen4all.com/storage/uploads/product616df41a7396d7a56696c6170f8ba592.jpg",
+      "brand": "ARMAAN ETHNIC",
+      "title": "Men Yellow Cotton Printed Panjabi",
+      "color": "Yellow",
+      "discountedPrice": 23,
+      "price": 39,
+      "discountPercent": 75,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Kay Kraft has always been regarded for its unique clothing and life style products. As well as ethnic and traditional clothing Kay Kraft designs fusing East and West for the young fashion enthusiasts."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/61AXRVjJROL._AC_UY1000_.jpg",
+      "image2":
+        "https://img.ltwebstatic.com/images3_pi/2023/08/10/ce/1691660020527eccae84adfa1947bd841fc28e3343_thumbnail_720x.jpg",
+      "brand": "KISSQIQI Store",
+      "title": "Mens Long Sleeve Printed Shirts Slim Fit Shiny Floral Silk",
+      "color": "White",
+      "discountedPrice": 19.19,
+      "price": 34.99,
+      "discountPercent": 66,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Make a statement in our stylish, slim fit men's dress shirts, a must-have addition to your 70s 80s outfits collection. crafted from high-quality polyester, these printed button down shirts offer both superior comfort and an undeniable fashion edge. Embrace the feel of silk shirts while making a style statement in any situation!"
+    },
+    {
+      "image1":
+        "https://www.thesamestyle.com/cdn/shop/products/unknown_275942526_475580540972827_1783217935443223892_n.jpg?v=1663154504",
+      "image2":
+        "https://rukminim2.flixcart.com/image/850/1000/xif0q/shopsy-shirt/6/l/z/xxl-tb-print-49-trybuy-original-imagpn9yuhv2y8r2.jpeg?q=90&crop=false",
+      "brand": "Majestic Man",
+      "title": "Men's Blue and White graphic Cotton printed Shirt",
+      "color": "Orange",
+      "discountedPrice": 21.69,
+      "price": 30.79,
+      "discountPercent": 42,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Truly Comfortable and Easy to Wear in every Season it is Insulating in Winter and Breathable in Summer. 100% Premium Poly Cotton | Digital Print | Pre-Washed for an extremely Soft Finish and Rich Look. Embrace the feel of silk shirts while making a style statement in any situation!"
+    },
+    {
+      "image1":
+        "https://www.solbari.com/cdn/shop/files/Men-SBM011-EucalyptusGreen-upf50-sun-protection1_1497x.jpg?v=1708655085",
+      "image2":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0v-Vf_R7gAIeYRJT5UtmKP7wiCwEsOLGLMh-agM3mj6cyzsAmbIvzwIcorqMHoa_Eo8&usqp=CAU",
+      "brand": "FUBAR",
+      "title": "Men Long Sleeve T-Shirt UPF 50+ Sensitive Collection",
+      "color": "Dark Grey",
+      "discountedPrice": 15.2,
+      "price": 19,
+      "discountPercent": 20,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Our Long Sleeve T-Shirt offers the perfect combination of comfort, protection and style. Made from cotton and natural bamboo, the fabric is super soft on your skin while helping you regulate your body temperature, keeping you cool and protected in the outdoors. Designed, tested with the highest sun protective rating available on the market."
+    },
+    {
+      "image1":
+        "https://newstaractive.com/cdn/shop/products/black_front_18cb55be-3abe-45be-9d4e-b74e9cf71161.jpg?v=1490479005",
+      "image2":
+        "https://newstaractive.com/cdn/shop/products/black_back_b0edb0a9-270a-4114-beb8-c090ef19fc98_1024x1024.jpg?v=1490479005",
+      "brand": "new star",
+      "title": "Men New Star Long Sleeve T-Shirt",
+      "color": "Black",
+      "discountedPrice": 17.49,
+      "price": 29.69,
+      "discountPercent": 74,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Our Long Sleeve T-Shirt offers the perfect combination of comfort, protection and style. Made from cotton and natural bamboo, the fabric is super soft on your skin while helping you regulate your body temperature, keeping you cool and protected in the outdoors. Designed, tested with the highest sun protective rating available on the market."
+    },
+    {
+      "image1":
+        "https://www.solbari.com/cdn/shop/files/Men-SensitiveLSPolo-SBW010-EucalyptusGreen-upf50-sun-protection1_1497x.jpg?v=1707698170",
+      "image2":
+        "https://www.solbari.com/cdn/shop/files/Men-SensitiveLSPolo-SBW010-LGM-upf50-sun-protection1_1497x.jpg?v=1714708002",
+      "brand": "solbari",
+      "title": "Men Long Sleeve Polo Shirt UPF 50+ Sensitive Collection",
+      "color": "Blue",
+      "discountedPrice": 68,
+      "price": 85,
+      "discountPercent": 20,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Created specifically for individuals with sensitive skin, our UPF50+ Sensitive Long Sleeve Polo Shirt offers the perfect combination of comfort, sun protection, and style. Made from a natural blend of cotton and bamboo fibres, our award-winning Sensitive Solbari® UPF50+ fabric offers maximum sun protection and is gentle on your skin reducing the likelihood of irritation or skin flare-ups."
+    },
+    {
+      "image1":
+        "https://www.russells.com/cdn/shop/files/panhandle-slim-shirts-rock-roll-denim-men-s-black-aztec-print-long-sleeve-western-snap-shirt-bmn2s02510-36539918614686_1200x.png?v=1701981502",
+      "image2":
+        "https://lospotrilloswesternwear.com/cdn/shop/products/RSMSOSRYTT_530x.jpg?v=1680393834",
+      "brand": "Rock & Roll Denim",
+      "title": "Men's Black Aztec Print Long Sleeve Western Snap Shirt",
+      "color": "Dark Blue",
+      "discountedPrice": 35,
+      "price": 60,
+      "discountPercent": 71,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Dobby-stripe shirt featuring Western-style yokes, snap front, and snap-flap chest pockets. Shirttail hem, Standard Length, Spandex material, Solid pattern. Made from a natural blend of cotton and bamboo fibres."
+    },
+    {
+      "image1":
+        "https://static-01.daraz.com.bd/p/f00d77b44d5d6e61ef554968f23fa148.jpg",
+      "image2":
+        "https://static-01.daraz.com.bd/p/2c7066063b27d4f5c0aebc8c1d7ce532.jpg",
+      "brand": "Veera Paridhaan",
+      "title": "Men yellow color stylish semi long panjabi",
+      "color": "Yellow",
+      "discountedPrice": 17,
+      "price": 29,
+      "discountPercent": 78,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Kay Kraft has always been regarded for its unique clothing and life style products. As well as ethnic and traditional clothing Kay Kraft designs fusing East and West for the young fashion enthusiasts."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/61DE8FuEz-L._AC_SX569_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/61rLsgwOngL._AC_SX385_.jpg",
+      "brand": "SG LEMAN",
+      "title": "Men's Silk Plain Chinese Collar Panjabi with Payjama",
+      "color": "Gold",
+      "discountedPrice": 21,
+      "price": 35,
+      "discountPercent": 67,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "This silk, button closure, machine wash & Kay Kraft has always been regarded for its unique clothing and life style products. As well as ethnic and traditional clothing Kay Kraft designs fusing East and West for the young fashion enthusiasts."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/71ZtHGq1VZL._AC_SX466_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/71y8-G-wXPL._AC_UY1000_.jpg",
+      "brand": "XuanXmy",
+      "title": "Men's Solid Color Casual Long Sleeve Shirt",
+      "color": "White",
+      "discountedPrice": 12.37,
+      "price": 20.79,
+      "discountPercent": 62,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Men's Solid Color Casual Long Sleeve Shirt With V Neck and Retro Buttons Design for Summer. Solid Color, Retro Button Design, Long Sleeve. Suit for fashion,causal,beach,holiday,daily wearing etc. Material: Cotton Blend"
+    },
+    {
+      "image1":
+        "https://ae-pic-a1.aliexpress-media.com/kf/S60a6af9c205c43fa9fcb8a9d79f979d8l/Gym-T-Shirt-Men-Fitness-Bodybuilding-Clothing-Workout-Quick-Dry-Long-Sleeve-Shirt-Male-Spring-Sports.jpg_640x640Q90.jpg_.webp",
+      "image2":
+        "https://i5.walmartimages.com/seo/Long-Sleeve-Tee-Shirts-for-Men-Aligament-Compression-Fitness-Sports-Quick-Drying-T-Shirt-Solid-Color-Tight-Elastic-Bottoming-Top-Undershirt-Black_8a10746b-c0ad-4f95-bb96-366c3a8daa72.2629f08daeea8bbc059cc532072e98c5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "brand": "ali express",
+      "title": "Gym T Shirt Men Fitness Bodybuilding Clothing Workout ",
+      "color": "Black",
+      "discountedPrice": 9.85,
+      "price": 17.92,
+      "discountPercent": 45,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Features a turtleneck collar for added warmth and a sleek look. Crafted from polyester, this shirt dries quickly, perfect for intense workouts. Ideal for spring and autumn, this shirt offers comfort in cooler climates. The compression design provides support and enhances muscle definition."
+    },
+    {
+      "image1":
+        "https://www.botaexotica.com/cdn/shop/files/CamisasVaquerasparaHombre-MC-360-17-CamisasVaquerasMexicanas.jpg?v=1696966106",
+      "image2":
+        "https://shellyraedesigns.com/wp-content/uploads/2023/10/c9cbafc101cad7de584cb1c52d872c35.jpg",
+      "brand": "denim",
+      "title": "Lonf Sleev Denim Shirts for Men",
+      "color": "Black",
+      "discountedPrice": 43.33,
+      "price": 55.83,
+      "discountPercent": 35,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Machine wash, snap closure for easy on and off. Elastic fabric, 3% elastane and 97% polyester. A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
+    },
+    {
+      "image1":
+        "https://bespokemoda.com/cdn/shop/products/232205-BLK-IMG_8428_950x.jpg?v=1681888136",
+      "image2":
+        "https://bespokemoda.com/cdn/shop/products/232209-BLK-IMG_8441_180x.jpg?v=1681888229",
+      "brand": "Baroque",
+      "title": "Mixed Pattern Velvet Texture Long Sleeve Dress Shirt",
+      "color": "Multicolor",
+      "discountedPrice": 80.83,
+      "price": 129.33,
+      "discountPercent": 60,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "Our signature dress shirts - popular for a reason. Lightweight and breathable, Versatile style, Form fitting / modern fit, Contrast cuffs and collar, Machine wash cold."
+    },
+    {
+      "image1":
+        "https://alsofitit.com/cdn/shop/files/SKU-04.png?v=1694167453&width=1153",
+      "image2":
+        "https://i5.walmartimages.com/seo/Men-s-Denim-Shirt-Casual-Long-Sleeve-Button-Down-Jean-Shirts-Regular-Fit-Washed-Slim-Fit-Work-Shirts_d3a6423a-4b60-4c1c-b803-696c5e0a246c.b7591262075c39d4c61e9d24d437c233.jpeg?odnHeight=432&odnWidth=320&odnBg=FFFFFF",
+      "brand": "denim",
+      "title": "Men's Cotton Solid Color Pocket Long Sleeve Shirt",
+      "color": "Black",
+      "discountedPrice": 28.99,
+      "price": 50.75,
+      "discountPercent": 75,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "The Button down shirts made of soft and lightweight cotton fabric, give you good and comfortable wearing experience. High-quality cotton, it is comfortable to wear and stylish in appearance. Classic design and stylish looking mens shirts，casual business slim fit button down dress shirts make you look clean and fashion, The denim fabric is very textured."
+    },
+    {
+      "image1": "https://m.media-amazon.com/images/I/71flwrfVSpL._AC_SX569_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/618-Yf-2hPL._AC_UY350_.jpg",
+      "brand": "BoShiNuo",
+      "title": "Stylish Floral Print Shirt Men Slim Fit Long Sleeve",
+      "color": "Black",
+      "discountedPrice": 52.97,
+      "price": 82.1,
+      "discountPercent": 55,
+      "size": [
+        {
+          "name": "S",
+          "quantity": 20
+        },
+        {
+          "name": "M",
+          "quantity": 30
+        },
+        {
+          "name": "L",
+          "quantity": 50
+        }
+      ],
+      "quantity": 100,
+      "topLevelCategory": "Men",
+      "secondLevelCategory": "Clothing",
+      "thirdLevelCategory": "mens_shirt",
+      "description":
+        "The mens silk button up shirt is perfect for any occasions and all seasons, especially casual outings, daily wear, dating, disco, christmas, party prom, wedding, dance party, business wear, festival, stage performance, etc. It's a great gift for yourselves, families, boy friend, friends."
+    }
+]
+  

@@ -1,0 +1,29 @@
+.productCard{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.productCard .productInfo{
+    transition: transform .3s ease-out;
+}
+.productCard:hover .productInfo{
+    transform: translateY(-1rem); 
+    /* productInfo will go upper for 1rem by using negative value. If we use positive value, the info will come below. */
+}
+.productCard:hover{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.productCard .actions button{
+    min-width: 40px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #8854d0;
+    color: #fff;
+    /* transform: translate(-50%, -50%); */
+    opacity: 0;
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+.productCard:hover .actions button{
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+}
