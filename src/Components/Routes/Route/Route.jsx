@@ -16,6 +16,7 @@ import AddProducts from "../../Pages/Dashboards/AddProduct/AddProducts";
 import AllProducts from './../../Pages/Dashboards/AllProducts/AllProducts';
 import Payment from './../../Pages/Dashboards/Payment/Payment';
 import SellerAdminRoute from './../SellerAdminRoute';
+import Faqs from './../../Shared/Footer/Faqs';
 
 const router = createBrowserRouter([
   {
@@ -32,11 +33,15 @@ const router = createBrowserRouter([
       },
   
       { path: "/category/:category", element: <ProductPage /> },
-      // { path: "/products/:category", element: <ProductPage /> },
+      { path: "/products/:category", element: <ProductPage /> },
 
       {
         path: "/contact",
         element: <ContactUs />,
+      },
+      {
+        path: "/faq",
+        element: <Faqs />,
       },
       {
         path: "/login",

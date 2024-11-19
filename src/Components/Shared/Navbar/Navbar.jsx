@@ -4,6 +4,7 @@ import { AuthContext } from "./../../../Context/AuthProvider";
 
 const Navbar = () => {
   const { getCurrentUser, logOut } = useContext(AuthContext);
+  //console.log(getCurrentUser)
   const menuItems = (
     <React.Fragment>
       <li>
@@ -21,8 +22,8 @@ const Navbar = () => {
       <div tabIndex={0} className="avatar">
         <div className="w-10 rounded-full">
           <img
-            alt="Tailwind CSS Navbar component"
-            src="https://bluetraincollegeprep.com/testimonialimage/20230106122058710.png" />
+            alt=""
+            src= {"https://bluetraincollegeprep.com/testimonialimage/20230106122058710.png"} />
         </div>
       </div>
       <ul

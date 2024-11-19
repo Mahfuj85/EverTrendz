@@ -6,31 +6,31 @@ const TestimonialData = [
         id: 1,
         name: "Victor",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab dolores ea repudiandae tempora corporis? Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt. Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt.",
-        img: "/public/t-1.jfif"
+        img: "/public/assets/t-1.jfif"
     },
     {
         id: 2,
         name: "Satya Nadelle",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab dolores ea repudiandae tempora corporis? Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt. Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt.",
-        img: "/public/t-2.jpg"
+        img: "/public/assets/t-2.jpg"
     },
     {
         id: 3,
         name: "Micheal Hardy",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab dolores ea repudiandae tempora corporis? Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt. Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt.",
-        img: "/public/t-3.jfif"
+        img: "/public/assets/t-3.jfif"
     },
     {
         id: 4,
         name: "Clara Peri",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab dolores ea repudiandae tempora corporis? Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt. Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt.",
-        img: "/public/t-4.png"
+        img: "/public/assets/t-4.png"
     },
     {
         id: 5,
         name: "Emma Watson",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab dolores ea repudiandae tempora corporis? Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt. Quo ipsa quia quam quisquam assumenda, iste dignissimos fuga. Nesciunt.",
-        img: "/public/t-5.jpg"
+        img: "/public/assets/t-5.jpg"
     },
     
 ]

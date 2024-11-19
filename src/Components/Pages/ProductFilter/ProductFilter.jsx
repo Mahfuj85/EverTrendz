@@ -29,7 +29,7 @@ const ProductFilter = () => {
   }
 
   const categories = products ? [
-    "All Products",
+    "All",
     ...new Set(products.map((product) => product.category))
   ] : [];
   const navigate = useNavigate();
@@ -60,8 +60,8 @@ const ProductFilter = () => {
           >
             <img
               src={
-                category === 'All Products'
-                  ? '/public/all-products.jpg'
+                category === 'All'
+                  ? "/public/assets/all-products.jpg"
                   : `data:image/png;base64,${categoryImages[category]}`
               }
               alt={`${category} category`}

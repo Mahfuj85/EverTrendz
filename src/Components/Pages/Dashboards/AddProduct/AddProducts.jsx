@@ -174,7 +174,7 @@ const AddProducts = () => {
                 <option>Electronics</option>
                 <option>Laptop</option>
                 <option>Mobile</option>
-                <option>Motor-cycle</option>
+                <option>Motorcycle</option>
                 <option>Home Decor</option>
             </select>
             {errors.category && (

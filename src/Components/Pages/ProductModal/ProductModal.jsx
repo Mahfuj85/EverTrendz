@@ -10,14 +10,16 @@ import "./ProductModal.css";
 import { useNavigate } from "react-router-dom";
 import { AuthContext } from './../../../Context/AuthProvider';
 import toast from "react-hot-toast";
+import { format } from "date-fns";
 
 
 const ProductModal = ({ props, products }) => {
   const {getCurrentUser} = useContext(AuthContext)
+  console.log(getCurrentUser)
   const { title, oldPrice, price, description, date } = products || {};
+  const date1 = format(date, "PP");
   const navigate = useNavigate();
 
- 
 
     const handleBooking = () => {
       const booking = {
@@ -64,7 +66,7 @@ const ProductModal = ({ props, products }) => {
         </button>
         <h4 className="mt-5 mb-2 text-2xl font-bold ps-10">{title}</h4>
         <div className="flex items-center my-4 ">
-              <span className="ml-10 text-lg font-semibold">Posted on {date}</span>
+              <span className="ml-10 text-lg font-semibold">Posted on: {date1}</span>
               <span className="newPrice text-green-500 ml-10 text-lg font-semibold">
                 Price: Tk {price}
               </span>
@@ -98,7 +100,7 @@ const ProductModal = ({ props, products }) => {
               <p className="text-lg"><b>Contact Number: </b>{products.number}</p>
             </div>
 
-            
+            {/* <p className="py-1 rounded-md text-lg flex"><span className="font-semibold">Verification:</span>  <span>{users.verify === "Verified" ? <TiTick style={{color: "green", fontSize: "30px"} }/> : ""}</span></p> */}
 
             <div className="flex items-center mt-5">
               <button

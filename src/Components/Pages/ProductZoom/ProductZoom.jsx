@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "react-inner-image-zoom/lib/InnerImageZoom/styles.css";
 import InnerImageZoom from "react-inner-image-zoom";
-// import "./ProductZoom.css"
+//import "./ProductZoom.css"
 
 const ProductZoom = ({ images }) => {
   const { image1, image2, image3 } = images;
@@ -71,7 +71,7 @@ const ProductZoom = ({ images }) => {
         </Slider>
       </div>
 
-      <div className="w-full">
+      <div className="w-full ">
         <Slider {...settings} className="zoomSlider pt-8" ref={zoomSlider}>
           <div className="item cursor-pointer mr-5">
             <img

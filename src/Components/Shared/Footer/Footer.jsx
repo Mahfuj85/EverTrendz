@@ -3,9 +3,10 @@ import FacebookOutlinedIcon from "@mui/icons-material/FacebookOutlined";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import YouTubeIcon from "@mui/icons-material/YouTube";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const Footer = () => {
+  const navigate = useNavigate();
   return (
     <footer className="bg-gray-900 text-gray-100 p-10 ">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-8">
@@ -29,9 +30,11 @@ const Footer = () => {
           <h3 className="font-bold text-lg mb-3">Quick Links</h3>
           <ul className="space-y-2">
             <li>
-              <a href="/product" className="hover:text-gray-300">
+              <button 
+              onClick={() => navigate("/category/All")}
+              className="hover:text-gray-300 hover:cursor">
                 Shop
-              </a>
+              </button>
             </li>
             <li>
               <a href="/about" className="hover:text-gray-300">

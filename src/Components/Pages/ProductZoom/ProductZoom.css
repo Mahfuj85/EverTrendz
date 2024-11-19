@@ -1,4 +1,4 @@
-/* .productZoom {
+.productZoom {
     width: 100%;
     height: auto;
     padding: 0px;
@@ -9,7 +9,7 @@
 
 .zoomSliderBig {
     width: 100% !important;
-} */
+}
 
 .zoomSlider {
     padding-top: 30px;
