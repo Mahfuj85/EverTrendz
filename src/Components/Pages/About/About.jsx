@@ -1,12 +1,7 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
 
 const AboutUs = () => {
-  const navigate = useNavigate();
-
-  const handleExploreClick = () => {
-    navigate('/products/all');
-  };
+ 
 
   return (
     <div className="bg-gray-50 py-20 mt-[2px]">
