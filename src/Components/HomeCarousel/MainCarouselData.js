@@ -2,23 +2,23 @@
 
 export const mainCarouselData = [
   {
-    image: "/public/assets/Electronics-banner.png"
+    image: "/assets/Electronics-banner.png"
   },
   {
-    image:"/public/assets/Furniture-banner.png"
+    image:"/assets/Furniture-banner.png"
   },
   {
-    image: "/public/assets/home-decor-banner.jpg"
+    image: "/assets/home-decor-banner.jpg"
       
   },
   {
-    image: "/public/assets/laptop-banner.jpg"
+    image: "/assets/laptop-banner.jpg"
   },
   {
-    image: "/public/assets/mobile-banner.jpg"
+    image: "/assets/mobile-banner.jpg"
   },
   {
-    image: "/public/assets/motor-banner.jpg"
+    image: "/assets/motor-banner.jpg"
   },
  
 ];

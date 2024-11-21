@@ -61,7 +61,7 @@ const ProductFilter = () => {
             <img
               src={
                 category === 'All'
-                  ? "/public/assets/all-products.jpg"
+                  ? "/assets/all-products.jpg"
                   : `data:image/png;base64,${categoryImages[category]}`
               }
               alt={`${category} category`}
